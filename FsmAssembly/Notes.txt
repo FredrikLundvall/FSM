@@ -1,0 +1,175 @@
+﻿One function for placing episodic memories
+One function for finding episodic memories
+One function for keeping episodic memories
+
+One function for placing semantic memories
+One function for finding semantic memories
+One function for keeping semantic memories
+
+One function for attaching emotions to memories
+One function for associating memories with other memories (mostly of the same type)
+
+One function for placing implicit memories
+One function for finding implicit memories
+One function for keeping implicit memories
+
+One function for placing short-term memories
+One function for finding short-term memories
+One function for keeping short-term memories
+
+One function for keeping working memories
+
+
+Neurovetenskap
+4FQUFNCFS 2014
+FOI-R--3921--SE
+ISSN1650-1942
+Har vi alla egentligen fotografiskt minne, absolut gehör och
+blixtsnabb kalkyleringsförmåga? Går det att frigöra denna dolda
+förmåga genom att manipulera hjärnan? Det hävdar den australiske forskaren Allan Snyder och hans team vid Centre of the Mind
+i Sydney. Air Force Research Lab i USA har visat att bildanalytiker
+får upp till 25 % bättre förmåga att upptäcka mål i radarbilder om
+deras hjärnor stimuleras med likström. Universitetet i Washington
+demonstrerade år 2013 hur en persons vilja kan läsas av en hjärnskanner och via en dator och en magnetbestyckad huva tvinga en
+annan person att utföra den viljestyrda handlingen. Vad blir konsekvenserna av ny teknik för att läsa och styra tankar? Hur kommer
+vi till exempel att påverkas av den nya vågen av hjärnskanningsbaserade lögndetektorer som redan finns på marknaden? Det är
+lätt att både ryckas med och skrämmas av alla möjligheter men det
+är viktigt att förstå att hjärnan radikalt skiljer sig från våra tekniska
+system vilket gör att det finns skarpa gränser för hur den kan integreras med teknik.
+Människohjärnan är individens och samhällets viktigaste instrument för utveckling och överlevnad. Neurovetenskap är den
+grundläggande vetenskapen om hjärnan. Driven av parallell
+utveckling inom informationsteknik, bioteknik och sensorer pågår
+en explosiv utveckling inom neurovetenskap. Denna rapport sammanfattar kortfattat kunskapsläget, lyfter fram färska genombrott
+och identifierar trender som kan leda till omvälvande nya tillämpningar samtidigt som vi diskuterar fundamentala begränsningar.
+Fokus är på teknik grundad i neurovetenskap som kan påverka
+friska individer, samhälle samt försvar och säkerhet.
+www.foi.se
+Magnus Jändel
+Teknisk prognos 
+
+2.3 Hur lär sig hjärnan?
+Hjärnan lär sig genom hela livet och förändras därmed ständigt. Det finns fyra
+grundläggande mekanismer för inlärning i hjärnan som mycket översiktligt
+beskrivs i de följande fyra styckena.
+Styrkan i synapser anpassas. Om signalen från en neuron bidrar till att en
+annan neuron aktiveras kan kopplingsstyrkan i de synapser som kopplar den
+första neuronen till den andra öka. Nästa gång den första neuronen aktiveras
+sprids då aktiveringen lättare till den andra neuronen. För varje gång hjärnan
+genomför ett aktiveringsmönster stärks de synapser som bidrar så att det för varje
+upprepning blir lättare att utföra mönstret.
+Synapser uppstår och försvinner. Om det inte redan finns en synaps mellan två
+neuroner finns det ju ingen synapsstyrka att anpassa. Hur vet hjärnan vilka
+neuroner som behöver kopplas ihop? Det vet inte forskarna än men en vanlig
+teori om hur detta går till kallas neural Darwinism. Enligt denna bildas synapser
+slumpmässigt mellan näraliggande axontrådar och dendriter. Synapser som är för
+svaga och därmed inte har någon effekt förtvinar och försvinner. Hjärnans
+aktivitetsmönster avgör därför var överlevande synapser uppstår.
+Neuriter bildas och försvinner. Neuronernas dendrit- och axonträd ändras
+genom att neuriter (trådar) skapas och försvinner. Enligt neural Darwinism sker
+nybildning slumpmässigt medan neuriter med få aktiva synapser tillbakabildas.
+En ny neurit gör att neuroner som tidigare inte haft möjlighet att få kontakt nu på
+försök kan bilda synapser. Om dessa synapser används i hjärnans
+aktivitetsmönster kommer det att förstärkas och därmed kommer den nya
+neuriten att bli kvar. När vi lär oss nya aktivitetsmönster kan därför nya neuriter
+bildas men om vi slutar med en aktivitet kan neuriter försvinna.
+Neuroner föds och dör. Nya neuroner kan bildas från reservoarer av stamceller.
+Genom att följa kemiska spår i hjärnan söker sig dessa celler fram till den plats
+där de kommer att växa och skickar ut sin långa axon som också den följer
+kemiska spår. Den nya neuronen bildar axon- och dendritträd och kopplar upp
+sig mot andra neuroner. I den vuxna hjärnan är det troligen bara ett fåtal områden
+som tar emot nya neuroner, däribland områden som är viktiga för att skapa nya
+långtidsminnen. Omfattningen av neuronbildning och vilken roll den har i
+lärandet är för närvarande osäker och kontroversiell inom forskarsamfundet.
+Tillsammans gör dessa mekanismer att hjärnan kan förändras under intryck av
+erfarenheter. Man brukar säga att hjärnan är plastisk. 
+
+2.4 Hur utvecklas hjärnan?
+Hjärnans förmåga till inlärning styrs av kemiska signalämnen enligt inbyggda
+program. Hög plasticitet är inte bara till nytta eftersom minnen glöms och
+förmågor vittrar bort när mönstret av synapser, neuriter och neuroner ändras. I
+olika faser av livet och beroende på livsstil har människan olika balans mellan
+plasticitet och stabilitet. Barnets hjärna är mer plastisk och den vuxna hjärnan är
+mer stabil eftersom barnet har mycket att lära sig och den vuxne har kunskaper
+och färdigheter som måste bevaras. Fysisk träning ökar den vuxna hjärnans
+plasticitet vilket kan vara en anpassning till att fysisk aktivitet under evolutionens
+lopp har varit kopplade till utmaningar som även kräver tänkande och lärande.
+Det nyfödda barnets hjärna har i stort sett samma antal neuroner som den vuxna
+hjärnan. Spädbarnets hjärna växer genom att mängder av neuriter och synapser
+bildas. Under inflytande av erfarenheter stabiliseras en del av dessa medan andra
+försvinner. Den vuxna hjärnan har betydligt färre neuriter och synapser än det
+två-åriga barnets hjärna. Spädbarnstiden är för hjärnan en tid av intensivt
+experimenterande då erfarenheten mejslar ut vilka kretsar och aktivitetsmönster
+som behövs. Olika funktioner har specifika utvecklingsfaser då ”fönster” av ökad
+plasticitet öppnas. Vissa funktioner utvecklas aldrig om de inte aktiveras under
+denna tid. Djurförsök visar till exempel att synen inte utvecklas som den ska om
+det unga djuret aldrig ser ljus. Den nyfödda hjärnan har potential för att lära sig
+att se men det är bara genom aktivt lärande som fungerande syn utvecklas.
+I äldre litteratur och i det allmänna medvetandet finns föreställningen att den
+vuxna hjärnan är stel och i ständig utförsbacke. På senare år har vi lärt oss att
+även den vuxna hjärnan är mycket plastisk och att även friska åldringar har stor
+förmåga till lärande. En vuxen hjärna behöver emellertid både stabilitet och
+plasticitet. Vi vill till exempel inte att förmågan att se på långa avstånd ska
+tillbakabildas om vi under några månader vistas i en ubåt. Evolutionen har därför
+försett vuxna hjärnor med funktioner som bromsar plasticitet. Dessa
+bromsfunktioner omfattar både mekaniska hinder för bildandet av neuriter och en
+kemisk miljö som begränsar lärandet. Hjärnans utveckling begränsas också av
+brist på fysiskt utrymme. Neuronerna är tätt packade i hjärnan och en stor del av
+hjärnans volym upptas av axonknippen för långväga kommunikation. Den vuxna
+hjärnan är plastisk men det finns inte plats för väsentligt fler neuroner, synapser
+eller långväga axoner.
+Alla hjärnor är olika dels för att varje människa har en unik uppsättning gener
+och dels för att hjärnan utveckas dynamiskt under inflytande av erfarenheter och
+livsstil. Detta gör att hjärnan på ett fundamentalt sätt skiljer sig från datorsystem. 
+
+2.5 Några viktiga upptäckter de senaste åren
+Beskrivningen av hur hjärnan fungerar i avsnitten 2.1-2.4 skulle kunna vara
+skriven för tio år sedan. De senaste årens forskning har dock tillfört kunskap
+även om fundamentala aspekter av hjärnans funktion och flera viktiga
+genombrott har skett det senaste året. Nya mättekniker och bättre möjligheter att
+analysera stora mängder data är drivande faktorer i den snabba
+kunskapsutvecklingen.
+Dendriter beskrivs i läroböcker som passiva kanaler vilka transporterar signaler
+från synapser till den centrala summerande funktionen som avgör om axonen ska
+aktiveras eller inte. År 2013 upptäckte dock en grupp Stanfordforskare (Smith m.
+fl., 2013) att dendriter i mushjärnan aktivt utför beräkningar och initierar
+signaler. Detta betyder att varje sådan aktiv dendrit uppträder som en minineuron
+som summerar inkommande signaler och om dessa överskrider ett tröskelvärde
+utlöses en utgående signal. Brunel, Hakim och Richardson (2014) sammanfattar
+ny kunskap om hur neuroner kan utföra mycket mer komplexa beräkningar än vi
+tidigare har trott.
+En upptäckt från 2010 visar också att naturen inte helt följer läroböckernas
+vanliga beskrivning av hur däggdjurs neuroner fungerar (Sheffield m.fl., 2010).
+Sheffield och medarbetare fann att axoners neurit-träd självständigt kan initiera
+signaler och att dessa ibland utlöser långvarig aktivering av neuronen. Detta
+strider mot den vanliga bilden av att det är signaler utifrån som via dendriterna
+aktiverar neuronen och att axonen enbart är en transportkanal för utgående
+signaler.
+Den vuxna hjärnans begränsade förmåga att från stamceller skapa nya neuroner
+hämmar läkningen av hjärnskador och delvis också förmågan att lära och
+utvecklas. Även om en viss generering av stamceller förekommer även hos
+vuxna är det av stor betydelse att en grupp forskare från University of Texas har
+visat att gliaceller kan omvandlas till neuroner i en levande hjärna (Niu m.fl.,
+2014). Gliaceller är celler som i stort antal finns i hjärnan och som man tidigare
+har trott bidrar framförallt med mekanisk struktur och näringstillförsel. En annan
+överraskning relaterad till gliaceller är upptäckten av ett tidigare okänt system för
+att transportera bort avfall från hjärnan (Iliff m. fl.., 2012). En sorts gliaceller
+som kallas för astrocyter bildar ett transportsystem som tar bort oönskade
+proteiner.
+I juni 2014 rapporterade Paez-Gonzalez m.fl. (2014) upptäckten av ett system i
+mushjärnor där vissa neuroner har förmågan att styra stamceller i hjärnan och
+därmed utlösa nybildning av neuroner. Därmed skulle hjärnan ha den bland
+informationssystem unika förmågan att mjukvaran kan bygga ut hårdvaran. När 
+forskarna i framtiden har kartlagt dessa system kan det öppna dramatiska
+möjligheter att läka skador och även förbättra friska hjärnor.
+En forskargrupp från MIT har visat att medveten förståelse av innehållet i bilder
+kan uppstå mycket fortare än på den tiondels sekund som man tidigare har trott
+(Potter m.fl. , 2014). Försökspersoner kan tränas till att uppfatta innehållet i
+bilder som visas under så kort tid som 13 millisekunder. Detta tyder på att
+hjärnan har en tidigare okänd ultrasnabb genväg för signalering av åtminstone
+vissa visuella data eller att många bilder kan lagras för senare behandling.
+Under senare år har det upptäckts att glömska är en aktiv förmåga som
+kontrolleras genetiskt och alltså inte bara handlar om överskrivning av
+information som kodats i synapser eller gradvis förfall på grund av celldöd
+(Rudenko, 2013).
+
+ 
